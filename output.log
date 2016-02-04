@@ -1,0 +1,584 @@
+*******************AES128**************************
+Intializing encryption process..
+Done intializing encryption process..
+Cycle  0; Encryption time: 0.5929 Decryption Time: 0.2693
+Cycle  1; Encryption time: 0.1344 Decryption Time: 0.1647
+Cycle  2; Encryption time: 0.2944 Decryption Time: 0.1529
+Cycle  3; Encryption time: 0.2625 Decryption Time: 0.1355
+Cycle  4; Encryption time: 0.1318 Decryption Time: 0.1413
+Cycle  5; Encryption time: 0.2085 Decryption Time: 0.2853
+Cycle  6; Encryption time: 0.1385 Decryption Time: 0.1986
+Cycle  7; Encryption time: 0.1314 Decryption Time: 0.1429
+Cycle  8; Encryption time: 0.2195 Decryption Time: 0.1346
+Cycle  9; Encryption time: 0.1324 Decryption Time: 0.1413
+Cycle 10; Encryption time: 0.2218 Decryption Time: 0.1395
+Cycle 11; Encryption time: 0.1383 Decryption Time: 0.2806
+Cycle 12; Encryption time: 0.1325 Decryption Time: 0.1350
+Cycle 13; Encryption time: 0.1312 Decryption Time: 0.1424
+Cycle 14; Encryption time: 0.1326 Decryption Time: 0.1627
+Cycle 15; Encryption time: 0.1264 Decryption Time: 0.1352
+Cycle 16; Encryption time: 0.1326 Decryption Time: 0.1367
+Cycle 17; Encryption time: 0.1371 Decryption Time: 0.1406
+Cycle 18; Encryption time: 0.1339 Decryption Time: 0.1375
+Cycle 19; Encryption time: 0.3310 Decryption Time: 0.3239
+Cycle 20; Encryption time: 0.1345 Decryption Time: 0.1350
+Cycle 21; Encryption time: 0.1286 Decryption Time: 0.1345
+Cycle 22; Encryption time: 0.1328 Decryption Time: 0.1413
+Cycle 23; Encryption time: 0.1326 Decryption Time: 0.1402
+Cycle 24; Encryption time: 0.1370 Decryption Time: 0.1357
+Cycle 25; Encryption time: 0.1333 Decryption Time: 0.1347
+Cycle 26; Encryption time: 0.1332 Decryption Time: 0.1431
+Cycle 27; Encryption time: 0.1410 Decryption Time: 0.1422
+Cycle 28; Encryption time: 0.1349 Decryption Time: 0.1358
+Cycle 29; Encryption time: 0.1409 Decryption Time: 0.1613
+Cycle 30; Encryption time: 0.2981 Decryption Time: 0.1370
+Cycle 31; Encryption time: 0.1359 Decryption Time: 0.1480
+Cycle 32; Encryption time: 0.2462 Decryption Time: 0.1485
+Cycle 33; Encryption time: 0.3193 Decryption Time: 0.2255
+Cycle 34; Encryption time: 0.1952 Decryption Time: 0.2461
+Cycle 35; Encryption time: 0.1322 Decryption Time: 0.1353
+Cycle 36; Encryption time: 0.1329 Decryption Time: 0.1355
+Cycle 37; Encryption time: 0.2756 Decryption Time: 0.1342
+Cycle 38; Encryption time: 0.1323 Decryption Time: 0.1354
+Cycle 39; Encryption time: 0.1394 Decryption Time: 0.2072
+Cycle 40; Encryption time: 0.1403 Decryption Time: 0.2253
+Cycle 41; Encryption time: 0.2943 Decryption Time: 0.1342
+Cycle 42; Encryption time: 0.1330 Decryption Time: 0.1348
+Cycle 43; Encryption time: 0.1324 Decryption Time: 0.1345
+Cycle 44; Encryption time: 0.1341 Decryption Time: 0.2321
+Cycle 45; Encryption time: 0.1328 Decryption Time: 0.7216
+Cycle 46; Encryption time: 0.1291 Decryption Time: 0.1353
+Cycle 47; Encryption time: 0.2028 Decryption Time: 0.1361
+Cycle 48; Encryption time: 0.1322 Decryption Time: 0.1351
+Cycle 49; Encryption time: 0.1341 Decryption Time: 0.1284
+Cycle 50; Encryption time: 0.1468 Decryption Time: 0.3394
+Cycle 51; Encryption time: 0.3186 Decryption Time: 0.1343
+Cycle 52; Encryption time: 0.1373 Decryption Time: 0.2369
+Cycle 53; Encryption time: 0.1287 Decryption Time: 0.1350
+Cycle 54; Encryption time: 0.1322 Decryption Time: 0.1343
+Cycle 55; Encryption time: 0.1332 Decryption Time: 0.1447
+Cycle 56; Encryption time: 0.2589 Decryption Time: 0.1455
+Cycle 57; Encryption time: 0.3178 Decryption Time: 0.1359
+Cycle 58; Encryption time: 0.1429 Decryption Time: 0.3036
+Cycle 59; Encryption time: 0.1457 Decryption Time: 0.3238
+Cycle 60; Encryption time: 0.2203 Decryption Time: 0.1354
+Cycle 61; Encryption time: 0.1314 Decryption Time: 0.1347
+Cycle 62; Encryption time: 0.1303 Decryption Time: 0.1468
+Cycle 63; Encryption time: 0.1334 Decryption Time: 0.1380
+Cycle 64; Encryption time: 0.1269 Decryption Time: 0.1343
+Cycle 65; Encryption time: 0.1331 Decryption Time: 0.1513
+Cycle 66; Encryption time: 0.2950 Decryption Time: 0.1353
+Cycle 67; Encryption time: 0.1324 Decryption Time: 0.1355
+Cycle 68; Encryption time: 0.1337 Decryption Time: 0.1359
+Cycle 69; Encryption time: 0.1379 Decryption Time: 0.1384
+Cycle 70; Encryption time: 0.9711 Decryption Time: 0.1398
+Cycle 71; Encryption time: 0.1374 Decryption Time: 0.1390
+Cycle 72; Encryption time: 0.1352 Decryption Time: 0.1294
+Cycle 73; Encryption time: 0.1332 Decryption Time: 0.1341
+Cycle 74; Encryption time: 0.1326 Decryption Time: 0.1359
+Cycle 75; Encryption time: 0.1343 Decryption Time: 0.1363
+Cycle 76; Encryption time: 0.1337 Decryption Time: 0.1468
+Cycle 77; Encryption time: 0.2636 Decryption Time: 0.1401
+Cycle 78; Encryption time: 0.1369 Decryption Time: 0.2255
+Cycle 79; Encryption time: 0.1459 Decryption Time: 0.3265
+Cycle 80; Encryption time: 0.1318 Decryption Time: 0.1347
+Cycle 81; Encryption time: 0.1333 Decryption Time: 0.1358
+Cycle 82; Encryption time: 0.1346 Decryption Time: 0.1434
+Cycle 83; Encryption time: 0.1347 Decryption Time: 0.1365
+Cycle 84; Encryption time: 0.1328 Decryption Time: 0.3035
+Cycle 85; Encryption time: 0.1397 Decryption Time: 0.3235
+Cycle 86; Encryption time: 0.3260 Decryption Time: 0.2215
+Cycle 87; Encryption time: 0.1345 Decryption Time: 0.1349
+Cycle 88; Encryption time: 0.1323 Decryption Time: 0.1349
+Cycle 89; Encryption time: 0.1328 Decryption Time: 0.1335
+Cycle 90; Encryption time: 0.1318 Decryption Time: 0.1349
+Cycle 91; Encryption time: 0.1320 Decryption Time: 0.1349
+Cycle 92; Encryption time: 0.1348 Decryption Time: 0.1586
+Cycle 93; Encryption time: 0.2983 Decryption Time: 0.1332
+Cycle 94; Encryption time: 0.1304 Decryption Time: 0.1455
+Cycle 95; Encryption time: 0.3116 Decryption Time: 0.3042
+Cycle 96; Encryption time: 0.1483 Decryption Time: 0.3325
+Cycle 97; Encryption time: 0.2749 Decryption Time: 0.2985
+Cycle 98; Encryption time: 0.3173 Decryption Time: 0.1440
+Cycle 99; Encryption time: 0.2747 Decryption Time: 0.1514
+Releasing cryptograhic Handles..
+Done Releasing cryptographic Handles..
+
+..............Results..................
+Encryption: Mean-Time=0.1823 Median-Time=0.1347
+Decryption: Mean-Time=0.1749 Median-Time=0.1398
+
+
+*******************AES256**************************
+Intializing encryption process..
+Done intializing encryption process..
+Cycle  0; Encryption time: 0.3139 Decryption Time: 0.2626
+Cycle  1; Encryption time: 0.3525 Decryption Time: 0.1532
+Cycle  2; Encryption time: 0.2940 Decryption Time: 0.1421
+Cycle  3; Encryption time: 0.1439 Decryption Time: 0.1567
+Cycle  4; Encryption time: 0.2348 Decryption Time: 0.1486
+Cycle  5; Encryption time: 0.1471 Decryption Time: 0.1529
+Cycle  6; Encryption time: 0.5366 Decryption Time: 0.4213
+Cycle  7; Encryption time: 0.2011 Decryption Time: 0.3596
+Cycle  8; Encryption time: 0.1456 Decryption Time: 0.1478
+Cycle  9; Encryption time: 0.1445 Decryption Time: 0.1419
+Cycle 10; Encryption time: 0.1444 Decryption Time: 0.1476
+Cycle 11; Encryption time: 0.1446 Decryption Time: 0.1614
+Cycle 12; Encryption time: 0.3527 Decryption Time: 0.3585
+Cycle 13; Encryption time: 0.1646 Decryption Time: 0.3577
+Cycle 14; Encryption time: 0.1476 Decryption Time: 0.1534
+Cycle 15; Encryption time: 0.2100 Decryption Time: 0.1564
+Cycle 16; Encryption time: 0.1640 Decryption Time: 0.2714
+Cycle 17; Encryption time: 0.2566 Decryption Time: 0.1584
+Cycle 18; Encryption time: 0.1494 Decryption Time: 0.1506
+Cycle 19; Encryption time: 0.1450 Decryption Time: 0.1496
+Cycle 20; Encryption time: 0.1463 Decryption Time: 0.1532
+Cycle 21; Encryption time: 0.1571 Decryption Time: 0.1508
+Cycle 22; Encryption time: 0.1423 Decryption Time: 0.1477
+Cycle 23; Encryption time: 0.1936 Decryption Time: 0.2234
+Cycle 24; Encryption time: 0.3525 Decryption Time: 0.1446
+Cycle 25; Encryption time: 0.1449 Decryption Time: 0.1560
+Cycle 26; Encryption time: 0.2439 Decryption Time: 0.1509
+Cycle 27; Encryption time: 0.1513 Decryption Time: 0.3025
+Cycle 28; Encryption time: 0.2469 Decryption Time: 0.2056
+Cycle 29; Encryption time: 0.3170 Decryption Time: 0.1490
+Cycle 30; Encryption time: 0.1455 Decryption Time: 0.1494
+Cycle 31; Encryption time: 0.1460 Decryption Time: 0.1590
+Cycle 32; Encryption time: 0.1494 Decryption Time: 0.1504
+Cycle 33; Encryption time: 0.1428 Decryption Time: 0.3536
+Cycle 34; Encryption time: 0.1445 Decryption Time: 0.1489
+Cycle 35; Encryption time: 0.1414 Decryption Time: 0.1619
+Cycle 36; Encryption time: 0.3517 Decryption Time: 0.1483
+Cycle 37; Encryption time: 0.1581 Decryption Time: 0.3523
+Cycle 38; Encryption time: 0.1535 Decryption Time: 0.1489
+Cycle 39; Encryption time: 0.1498 Decryption Time: 0.1618
+Cycle 40; Encryption time: 0.1464 Decryption Time: 0.1505
+Cycle 41; Encryption time: 0.1519 Decryption Time: 0.2480
+Cycle 42; Encryption time: 0.1392 Decryption Time: 0.1530
+Cycle 43; Encryption time: 0.4649 Decryption Time: 0.2038
+Cycle 44; Encryption time: 0.1693 Decryption Time: 0.1491
+Cycle 45; Encryption time: 0.1441 Decryption Time: 0.3582
+Cycle 46; Encryption time: 0.2424 Decryption Time: 0.1587
+Cycle 47; Encryption time: 0.2893 Decryption Time: 0.1941
+Cycle 48; Encryption time: 0.3281 Decryption Time: 0.2917
+Cycle 49; Encryption time: 0.3671 Decryption Time: 0.3651
+Cycle 50; Encryption time: 0.1539 Decryption Time: 0.2864
+Cycle 51; Encryption time: 0.3273 Decryption Time: 0.2907
+Cycle 52; Encryption time: 0.3536 Decryption Time: 0.1689
+Cycle 53; Encryption time: 0.3317 Decryption Time: 0.2116
+Cycle 54; Encryption time: 0.1462 Decryption Time: 0.1482
+Cycle 55; Encryption time: 0.1526 Decryption Time: 0.2952
+Cycle 56; Encryption time: 0.1476 Decryption Time: 0.1515
+Cycle 57; Encryption time: 0.2589 Decryption Time: 0.1674
+Cycle 58; Encryption time: 0.2892 Decryption Time: 0.1672
+Cycle 59; Encryption time: 0.2561 Decryption Time: 0.1484
+Cycle 60; Encryption time: 0.1442 Decryption Time: 0.2831
+Cycle 61; Encryption time: 0.1567 Decryption Time: 0.3644
+Cycle 62; Encryption time: 0.1478 Decryption Time: 0.1522
+Cycle 63; Encryption time: 0.1460 Decryption Time: 0.1489
+Cycle 64; Encryption time: 0.1440 Decryption Time: 0.1484
+Cycle 65; Encryption time: 0.1440 Decryption Time: 0.1440
+Cycle 66; Encryption time: 0.1448 Decryption Time: 0.1636
+Cycle 67; Encryption time: 0.3260 Decryption Time: 0.1488
+Cycle 68; Encryption time: 0.1440 Decryption Time: 0.1426
+Cycle 69; Encryption time: 0.1571 Decryption Time: 0.3618
+Cycle 70; Encryption time: 0.1498 Decryption Time: 0.1598
+Cycle 71; Encryption time: 0.1440 Decryption Time: 0.1483
+Cycle 72; Encryption time: 0.1458 Decryption Time: 0.1478
+Cycle 73; Encryption time: 0.1447 Decryption Time: 0.1466
+Cycle 74; Encryption time: 0.1559 Decryption Time: 0.3144
+Cycle 75; Encryption time: 0.1393 Decryption Time: 0.1524
+Cycle 76; Encryption time: 0.1413 Decryption Time: 0.2178
+Cycle 77; Encryption time: 0.2814 Decryption Time: 0.1576
+Cycle 78; Encryption time: 0.1539 Decryption Time: 0.3376
+Cycle 79; Encryption time: 0.1402 Decryption Time: 0.1513
+Cycle 80; Encryption time: 0.1552 Decryption Time: 0.1582
+Cycle 81; Encryption time: 0.1468 Decryption Time: 0.1427
+Cycle 82; Encryption time: 0.1454 Decryption Time: 0.1473
+Cycle 83; Encryption time: 0.1454 Decryption Time: 0.1474
+Cycle 84; Encryption time: 0.1564 Decryption Time: 0.3698
+Cycle 85; Encryption time: 0.1493 Decryption Time: 0.1455
+Cycle 86; Encryption time: 0.1466 Decryption Time: 0.1502
+Cycle 87; Encryption time: 0.1566 Decryption Time: 0.4476
+Cycle 88; Encryption time: 0.2387 Decryption Time: 0.2144
+Cycle 89; Encryption time: 0.1467 Decryption Time: 0.3558
+Cycle 90; Encryption time: 0.1673 Decryption Time: 0.1509
+Cycle 91; Encryption time: 0.3495 Decryption Time: 0.1652
+Cycle 92; Encryption time: 0.1543 Decryption Time: 0.3123
+Cycle 93; Encryption time: 0.3539 Decryption Time: 0.1413
+Cycle 94; Encryption time: 0.1456 Decryption Time: 0.6086
+Cycle 95; Encryption time: 0.1918 Decryption Time: 0.3098
+Cycle 96; Encryption time: 0.4074 Decryption Time: 0.3969
+Cycle 97; Encryption time: 0.5653 Decryption Time: 0.3763
+Cycle 98; Encryption time: 0.1923 Decryption Time: 0.1932
+Cycle 99; Encryption time: 0.3559 Decryption Time: 0.1823
+Releasing cryptograhic Handles..
+Done Releasing cryptographic Handles..
+
+..............Results..................
+Encryption: Mean-Time=0.2075 Median-Time=0.1539
+Decryption: Mean-Time=0.2128 Median-Time=0.1584
+
+
+*******************HMAC MD5**************************
+intializing hashing process..
+Done intializing hashing process..
+Cycle  0; Hash: 46696c652e0a0a73206120746573742069616c697a696e67 Hashing-time: 0.6868
+Cycle  1; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5539
+Cycle  2; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5560
+Cycle  3; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8639
+Cycle  4; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5343
+Cycle  5; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5961
+Cycle  6; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8907
+Cycle  7; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5386
+Cycle  8; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5362
+Cycle  9; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5366
+Cycle 10; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5343
+Cycle 11; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8571
+Cycle 12; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5412
+Cycle 13; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5406
+Cycle 14; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5383
+Cycle 15; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5366
+Cycle 16; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8598
+Cycle 17; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5365
+Cycle 18; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5350
+Cycle 19; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5376
+Cycle 20; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5349
+Cycle 21; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5350
+Cycle 22; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5351
+Cycle 23; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5343
+Cycle 24; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5357
+Cycle 25; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5349
+Cycle 26; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5350
+Cycle 27; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5359
+Cycle 28; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5774
+Cycle 29; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5483
+Cycle 30; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5335
+Cycle 31; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5346
+Cycle 32; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5360
+Cycle 33; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5352
+Cycle 34; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5337
+Cycle 35; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5343
+Cycle 36; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8605
+Cycle 37; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5335
+Cycle 38; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5328
+Cycle 39; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8569
+Cycle 40; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5343
+Cycle 41; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5347
+Cycle 42; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5338
+Cycle 43; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5358
+Cycle 44; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.9009
+Cycle 45; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5384
+Cycle 46; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5398
+Cycle 47; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5393
+Cycle 48; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5527
+Cycle 49; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5396
+Cycle 50; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5403
+Cycle 51; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5391
+Cycle 52; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5399
+Cycle 53; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5396
+Cycle 54; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5388
+Cycle 55; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5394
+Cycle 56; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.7346
+Cycle 57; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8722
+Cycle 58; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5369
+Cycle 59; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5349
+Cycle 60; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5329
+Cycle 61; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5342
+Cycle 62; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5332
+Cycle 63; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5343
+Cycle 64; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5324
+Cycle 65; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5346
+Cycle 66; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5323
+Cycle 67; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8570
+Cycle 68; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5337
+Cycle 69; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5333
+Cycle 70; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5335
+Cycle 71; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5327
+Cycle 72; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5328
+Cycle 73; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5330
+Cycle 74; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5347
+Cycle 75; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5340
+Cycle 76; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5347
+Cycle 77; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5343
+Cycle 78; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5335
+Cycle 79; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5327
+Cycle 80; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5322
+Cycle 81; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5341
+Cycle 82; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5339
+Cycle 83; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5661
+Cycle 84; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5574
+Cycle 85; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5331
+Cycle 86; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5324
+Cycle 87; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5336
+Cycle 88; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5336
+Cycle 89; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5364
+Cycle 90; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5440
+Cycle 91; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5359
+Cycle 92; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5331
+Cycle 93; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5338
+Cycle 94; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5325
+Cycle 95; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8572
+Cycle 96; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.8584
+Cycle 97; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5341
+Cycle 98; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5364
+Cycle 99; Hash: 46696c652e0a0a73206120746573742006 Hashing-time: 0.5331
+Releasing Hashing Handles..
+Done releasing Hashing Handles..
+
+..............Results..................
+Hashing: Mean-Time=0.5776 Median-Time=0.5352
+
+*******************HMAC SHA1**************************
+intializing hashing process..
+Done intializing hashing process..
+Cycle  0; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4944
+Cycle  1; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle  2; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4940
+Cycle  3; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.5572
+Cycle  4; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.5175
+Cycle  5; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4937
+Cycle  6; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4935
+Cycle  7; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4941
+Cycle  8; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4939
+Cycle  9; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4946
+Cycle 10; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4945
+Cycle 11; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4950
+Cycle 12; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4952
+Cycle 13; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4944
+Cycle 14; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4942
+Cycle 15; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4956
+Cycle 16; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4946
+Cycle 17; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4943
+Cycle 18; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4944
+Cycle 19; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4953
+Cycle 20; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4947
+Cycle 21; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4948
+Cycle 22; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4950
+Cycle 23; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4952
+Cycle 24; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4941
+Cycle 25; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 26; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 27; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4947
+Cycle 28; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4951
+Cycle 29; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4942
+Cycle 30; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4941
+Cycle 31; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4948
+Cycle 32; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 33; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 34; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4947
+Cycle 35; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4940
+Cycle 36; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4950
+Cycle 37; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4932
+Cycle 38; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 39; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4955
+Cycle 40; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4944
+Cycle 41; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4942
+Cycle 42; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 43; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4939
+Cycle 44; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4947
+Cycle 45; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4966
+Cycle 46; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4943
+Cycle 47; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4945
+Cycle 48; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4984
+Cycle 49; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.5039
+Cycle 50; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4945
+Cycle 51; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4955
+Cycle 52; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4945
+Cycle 53; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4939
+Cycle 54; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4935
+Cycle 55; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 56; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4938
+Cycle 57; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4935
+Cycle 58; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4935
+Cycle 59; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4941
+Cycle 60; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4951
+Cycle 61; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.5037
+Cycle 62; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.5089
+Cycle 63; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4990
+Cycle 64; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4957
+Cycle 65; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4941
+Cycle 66; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 67; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4936
+Cycle 68; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4943
+Cycle 69; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4954
+Cycle 70; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4943
+Cycle 71; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4953
+Cycle 72; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4943
+Cycle 73; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4949
+Cycle 74; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4947
+Cycle 75; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4954
+Cycle 76; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4955
+Cycle 77; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4947
+Cycle 78; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4965
+Cycle 79; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4971
+Cycle 80; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4983
+Cycle 81; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4984
+Cycle 82; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4972
+Cycle 83; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4969
+Cycle 84; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4997
+Cycle 85; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.5084
+Cycle 86; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4989
+Cycle 87; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4967
+Cycle 88; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 1.0542
+Cycle 89; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4962
+Cycle 90; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4974
+Cycle 91; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4961
+Cycle 92; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4961
+Cycle 93; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4958
+Cycle 94; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4949
+Cycle 95; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4959
+Cycle 96; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4957
+Cycle 97; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4958
+Cycle 98; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4961
+Cycle 99; Hash: 206120746573742046696c652e0a0a6973206973fffffffe7f Hashing-time: 0.4955
+Releasing Hashing Handles..
+Done releasing Hashing Handles..
+
+..............Results..................
+Hashing: Mean-Time=0.5019 Median-Time=0.4947
+
+*******************HMAC SHA256**************************
+intializing hashing process..
+Done intializing hashing process..
+Cycle  0; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e69616c697a696e67 Hashing-time: 0.5972
+Cycle  1; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5967
+Cycle  2; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5938
+Cycle  3; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5937
+Cycle  4; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5917
+Cycle  5; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5915
+Cycle  6; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5928
+Cycle  7; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5913
+Cycle  8; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5927
+Cycle  9; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5926
+Cycle 10; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5923
+Cycle 11; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5927
+Cycle 12; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 1.1839
+Cycle 13; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5918
+Cycle 14; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5916
+Cycle 15; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5943
+Cycle 16; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5924
+Cycle 17; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5954
+Cycle 18; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5909
+Cycle 19; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5916
+Cycle 20; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5913
+Cycle 21; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5913
+Cycle 22; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5925
+Cycle 23; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5915
+Cycle 24; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5914
+Cycle 25; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5920
+Cycle 26; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5910
+Cycle 27; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5948
+Cycle 28; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5910
+Cycle 29; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5913
+Cycle 30; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5943
+Cycle 31; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5918
+Cycle 32; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5925
+Cycle 33; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5947
+Cycle 34; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5909
+Cycle 35; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5910
+Cycle 36; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5934
+Cycle 37; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5918
+Cycle 38; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5919
+Cycle 39; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5976
+Cycle 40; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5937
+Cycle 41; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5911
+Cycle 42; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5967
+Cycle 43; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5918
+Cycle 44; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5915
+Cycle 45; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 1.1312
+Cycle 46; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5907
+Cycle 47; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5910
+Cycle 48; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5907
+Cycle 49; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5915
+Cycle 50; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5913
+Cycle 51; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5920
+Cycle 52; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5921
+Cycle 53; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5914
+Cycle 54; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5916
+Cycle 55; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5908
+Cycle 56; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5919
+Cycle 57; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5908
+Cycle 58; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5924
+Cycle 59; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5941
+Cycle 60; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5907
+Cycle 61; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5912
+Cycle 62; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5940
+Cycle 63; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5912
+Cycle 64; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.6066
+Cycle 65; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.6046
+Cycle 66; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5908
+Cycle 67; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5908
+Cycle 68; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5940
+Cycle 69; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5909
+Cycle 70; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5912
+Cycle 71; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5996
+Cycle 72; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5961
+Cycle 73; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5926
+Cycle 74; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5977
+Cycle 75; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5928
+Cycle 76; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5927
+Cycle 77; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5948
+Cycle 78; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5921
+Cycle 79; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5908
+Cycle 80; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.6769
+Cycle 81; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.6051
+Cycle 82; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5914
+Cycle 83; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5914
+Cycle 84; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5908
+Cycle 85; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5915
+Cycle 86; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5912
+Cycle 87; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5916
+Cycle 88; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5911
+Cycle 89; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5918
+Cycle 90; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5914
+Cycle 91; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5941
+Cycle 92; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5905
+Cycle 93; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5909
+Cycle 94; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5940
+Cycle 95; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5912
+Cycle 96; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.6040
+Cycle 97; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5944
+Cycle 98; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5928
+Cycle 99; Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e06 Hashing-time: 0.5929
+Releasing Hashing Handles..
+Done releasing Hashing Handles..
+
+..............Results..................
+Hashing: Mean-Time=0.6051 Median-Time=0.5919
+
+*******************Digital Signature**************************
+Hash: 0a54686973206973206120746573742046696c652e0a0a6573742046696c652e7c
+Digital Signature : 4DDB55372DF131F56FF0319D6F05C5C1167F4FCE4FA196EE0A01D883D29E86D9F10A01B5F68F6D1BD52DCC63017D31FBBF537EC78E24DC1F5F3893D243284070E53D24222E09405BBA198D59967E2E1DC6A18E11343A4849D89E4A4E166180190F93876C42D3E1A146D04662974DCB828C9569DDBEA4A043B28F5B88F8F6020D46D451A4391D98CC482CCF69CA0DCFBD91D6BB839B65C6CB5770B186A362F8242A3638222C144205544C3DAC792B8703DDCF7035668665C14BD5755FF40F2436D14D5E584A4DC4AE53E76525E548BCBBA59693A027FF014158124C06300413EA87C5C1B3E29E8AAB8194197D3240DAA1FAB74B23E38E0DF845AC2428EBA89050A521B091816158858B8C835D5A8AD9B41B93B6B07639D62172A46CF8395942C200EC83C8CD3761935EF67FDBBAD0FF7D721E08FF4A5E76121E235933A7575288C255CB3642D3D37979C4C9FAE2AE4FED996A0CEFF21D9C0A65321A22158DCB7757EEAADF8D999C334699D8A812CAF83270A2C44F7C2119811B816EAAB25A3D93DC371F07383F953D2A8018921977EFFDF5106EE99421B6EF468EA6B33CE5748BFB8DF762E2CA066D83D74F58779BF642D46B29DF577D227BD1DA6505DC4AA409DF93F83A09794FA1763FBBE62B428F7866B2421A739FBC2F41AB779C455A7D8A958D918C363171C3D3AB947AB2088CE68159B8DFBAF3B51D8C96485CFA2906AE
+
+*******************RSA1024**************************
+Cycle  0; Encryption time: 21.1226 Decryption Time: 850.8097
+Cycle  1; Encryption time: 21.2458 Decryption Time: 849.9019
+Cycle  2; Encryption time: 23.6866 Decryption Time: 880.5278
+Cycle  3; Encryption time: 22.2397 Decryption Time: 889.9517
+Cycle  4; Encryption time: 24.4652 Decryption Time: 889.2870
+Cycle  5; Encryption time: 21.1997 Decryption Time: 890.3885
+Cycle  6; Encryption time: 23.0675 Decryption Time: 948.7736
+Cycle  7; Encryption time: 25.4955 Decryption Time: 854.8478
+Cycle  8; Encryption time: 22.4050 Decryption Time: 864.3187
+Cycle  9; Encryption time: 28.1228 Decryption Time: 905.0201
+
+..............Results..................
+Encryption: Mean-Time=28.7651 Median-Time=22.4050
+Decryption: Mean-Time=884.367 Median-Time=880.5278
+
+
+*******************RSA4096**************************
+Cycle  0; Encryption time: 46.8246 Decryption Time: 4303.6728
+Cycle  1; Encryption time: 43.8004 Decryption Time: 4329.5593
+Cycle  2; Encryption time: 43.5687 Decryption Time: 4269.1040
+Cycle  3; Encryption time: 42.9031 Decryption Time: 4347.5943
+Cycle  4; Encryption time: 46.1984 Decryption Time: 4312.0991
+Cycle  5; Encryption time: 45.2778 Decryption Time: 4227.1014
+Cycle  6; Encryption time: 42.8634 Decryption Time: 4440.4835
+Cycle  7; Encryption time: 42.9031 Decryption Time: 4364.5943
+Cycle  8; Encryption time: 46.1984 Decryption Time: 4245.0991
+Cycle  9; Encryption time: 45.2778 Decryption Time: 4437.1014
+..............Results..................
+Encryption: Mean-Time=44.5815 Median-Time=43.8004
+Decryption: Mean-Time=4312.0991 Median-Time=4312.0991
